@@ -32,4 +32,4 @@ In order to reproduce the results of the manuscript, you should run the notebook
 
 ## References
 
-- "Constrained surrogates for arbitrary families of continuous probability distributions", Jack Murdoch Moore, Gand Eduardo G. Altmann, Constrained surrogates for arbitrary families of continuous probability distributions.
+- "Constrained surrogates for arbitrary families of continuous probability distributions", Jack Murdoch Moore, Gand Eduardo G. Altmann.

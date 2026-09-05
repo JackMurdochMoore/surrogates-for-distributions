@@ -33,47 +33,47 @@ The hypothesis-testing notebooks have two versions:
 
 ### Analysis and plotting notebooks
 
-Reproduces Fig. 5 and Fig. S8:
-
-`analysis-estimates-of-statistics.ipynb` and
-`plots-estimates-of-statistics.ipynb` estimate statistics using
-synthetic data. Results are stored in `./results/est-stat/`.
-
-Reproduces Fig. 4 and Figs. S1--S7:
+Reproduce Fig. 4 and Figs. S1--S7:
 
 `analysis-hypothesis-testing.ipynb` and `plots-hypothesis-testing.ipynb`
 perform hypothesis tests for synthetic data. Results are stored in
 `./results/hyp-test/`.
 
-Reproduces the computational-time results in the Supplementary Material:
+Reproduce Fig. 5 and Fig. S8:
 
-`analysis-hypothesis-testing-and-computational-time.ipynb` and
-`plots-hypothesis-testing-and-computational-time.ipynb` perform
-hypothesis tests for synthetic data while recording computational costs.
-Results are stored in `./results/hyp-test/`.
+`analysis-estimates-of-statistics.ipynb` and
+`plots-estimates-of-statistics.ipynb` estimate statistics using
+synthetic data. Results are stored in `./results/est-stat/`.
 
-Reproduces Fig. 8:
-
-`analysis-brain.ipynb` and `plots-brain.ipynb` analyse neuronal data in
-`./data/brain/`. Results are stored in `./results/hyp-test/`.
-
-Reproduces Fig. S12 and Table S1:
-
-`analysis-and-plots-cities.ipynb` analyses city-population data in
-`./data/cities/`. Results are stored in `./results/hyp-test/`.
-
-Reproduces Fig. 6:
+Reproduce Fig. 6 and Figs. S9--S10:
 
 `analysis-fires.ipynb` and `plots-fires.ipynb` analyse fire-size data in
 `./data/fires/`. Results are stored in `./results/est-stat/` and
 `./results/hyp-test/`.
 
-Reproduces Fig. 7 and Fig. S11:
+Reproduce Fig. 7 and Fig. S11:
 
 `analysis-words.ipynb` and `plots-words.ipynb` analyse word-waiting-time
 data in `./data/words/`. Results are stored in `./results/hyp-test/`.
 Example results for the words data are not included because they
 comprise hundreds of individual files.
+
+Reproduce Fig. 8:
+
+`analysis-brain.ipynb` and `plots-brain.ipynb` analyse neuronal data in
+`./data/brain/`. Results are stored in `./results/hyp-test/`.
+
+Reproduce Fig. S12 and Table S1:
+
+`analysis-and-plots-cities.ipynb` analyses city-population data in
+`./data/cities/`. Results are stored in `./results/hyp-test/`.
+
+Reproduce Fig. S13:
+
+`analysis-hypothesis-testing-and-computational-time.ipynb` and
+`plots-hypothesis-testing-and-computational-time.ipynb` perform
+hypothesis tests for synthetic data while recording computational costs.
+Results are stored in `./results/hyp-test/`.
 
 ## Folders
 

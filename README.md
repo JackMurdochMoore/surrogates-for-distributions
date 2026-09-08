@@ -5,7 +5,7 @@ It allows you to
 
 - generate constrained surrogates based on a time series
 - perform simple hypothesis tests with constrained surrogates
-- estimate expected values using constrained surrogates
+- estimate expected values of statistics using constrained surrogates
 - reproduce the results of the manuscript "Constrained surrogates for arbitrary families of continuous probability distributions," by Jack Murdoch Moore and Eduardo G. Altmann
 
 

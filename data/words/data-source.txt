@@ -1,0 +1,1 @@
+Waiting times between repetitions of words in the book The Voyage of the Beagle, by Charles Darwin. To compute these waiting times, the word sequence is treated as cyclical.

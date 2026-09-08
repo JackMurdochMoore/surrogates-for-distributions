@@ -1,0 +1,2 @@
+Data (sequence of bushfire sizes in units of 500 m^2) inferred from satellite imaging data as described in
+Nicoletti, G., Saravia, L., Momo, F., Maritan, A. & Suweis, S. The emergence of scale-free fires in Australia. iScience 26, 106181 (2023).

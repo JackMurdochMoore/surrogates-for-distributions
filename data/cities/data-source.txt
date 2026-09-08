@@ -1,0 +1,3 @@
+Data from
+Altmann, E. G. Statistical Laws in Complex Systems (Springer Nature, Cham, 2025)
+https://github.com/edugalt/StatisticalLaws/tree/main/data/cities/

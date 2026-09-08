@@ -1,0 +1,5 @@
+.xlsx files downloaded from
+https://www.wormwiring.org/pages/adjacency.html
+in July 2025
+
+.txt files generated from .xlsx files using analysis-brain.ipynb

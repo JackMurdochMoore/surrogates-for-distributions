@@ -1,6 +1,6 @@
 # Introduction:
 
-This folder contains the source code used in [this repository](https://github.com/JackMurdochMoore/surrogates-for-distributions)).
+This folder contains the source code used in [this repository](https://github.com/JackMurdochMoore/surrogates-for-distributions).
 
 # Organization of the folder:
 

@@ -5,7 +5,8 @@ It allows you to
 
 - generate constrained surrogates based on a time series
 - perform simple hypothesis tests with constrained surrogates
-- reproduce the results of the manuscript Constrained surrogates for arbitrary families of continuous probability distributions, by Jack Murdoch Moore and Eduardo G. Altmann
+- estimate expected values using constrained surrogates
+- reproduce the results of the manuscript "Constrained surrogates for arbitrary families of continuous probability distributions," by Jack Murdoch Moore and Eduardo G. Altmann
 
 
 # How to use
@@ -32,4 +33,4 @@ In order to reproduce the results of the manuscript, you should run the notebook
 
 ## References
 
-- "Constrained surrogates for arbitrary families of continuous probability distributions", Jack Murdoch Moore and Eduardo G. Altmann.
+- "Constrained surrogates for arbitrary families of continuous probability distributions," Jack Murdoch Moore and Eduardo G. Altmann.

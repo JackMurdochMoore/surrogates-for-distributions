@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the codes to generate constrained surrogates for several types of distributions: powerlaw, (left-truncated) lognormal, exponential,  (left-truncated) Gaussian, and uniform.
+This repository contains the codes to generate constrained surrogates for several types of distributions: powerlaw, (truncated) lognormal, exponential,  (truncated) Gaussian, and uniform.
 
 It allows you to
 

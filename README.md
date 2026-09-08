@@ -28,7 +28,7 @@ In order to reproduce the results of the manuscript, you should run the notebook
 ## Files
 
 - 'requirements.txt': python packages required in the repository.
-- 'tutorial.ipynb': A tutorial to generate surrogates based on a new or [existing time series](https://github.com/JackMurdochMoore/power-law/tree/main/time-series).
+- 'tutorial.ipynb': A tutorial to generate surrogates based on new or [existing data](https://github.com/JackMurdochMoore/surrogates-for-distributions/tree/main/data).
 
 ## References
 

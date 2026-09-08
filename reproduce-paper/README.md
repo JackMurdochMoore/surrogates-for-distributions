@@ -43,7 +43,9 @@ Reproduce Fig. 5 and Fig. S8:
 
 `analysis-estimates-of-statistics.ipynb` and
 `plots-estimates-of-statistics.ipynb` estimate statistics using
-synthetic data. Results are stored in `./results/est-stat/`.
+synthetic data. Results are stored in `./results/est-stat/`. 
+Example results for the words data are not included because individual
+files are large.
 
 Reproduce Fig. 6 and Figs. S9--S10:
 

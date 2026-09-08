@@ -6,4 +6,4 @@ This folder contains the source code used in [this repository](https://github.co
 
 ## Files
 
-- 'constrained_power_law_surrogates.py': python module associated with [this repository](https://github.com/JackMurdochMoore/surrogates-for-distributions).
+- 'constrained_likelihood_surrogates.py': python module associated with [this repository](https://github.com/JackMurdochMoore/surrogates-for-distributions).
